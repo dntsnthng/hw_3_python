@@ -1,5 +1,5 @@
 from selene import browser, be, have
-import time
+
 
 
 def test_open_google():
